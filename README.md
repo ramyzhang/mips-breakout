@@ -1,7 +1,7 @@
 # mips-breakout
 A cutesy clone of Atari Breakout written in MIPS assembly for CSC258 at UofT, built by Hanqi Zeng and Ramy Zhang!
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/34625981/230788322-0646b0b1-9047-47f7-b6a9-75085eef7e98.gif)" width="431" height="318">
+<img src="https://user-images.githubusercontent.com/34625981/230788839-94bb688a-f72a-48a9-b64f-bb3f963be035.gif" alt="MIPS Breakout Gameplay" width="431">
 
 ### Features
 1. 2-player, one paddle for each player :)
