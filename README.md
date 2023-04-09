@@ -2,7 +2,7 @@
 A cutesy clone of Atari Breakout written in MIPS assembly for CSC258 at UofT, built by Hanqi Zeng and Ramy Zhang!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34625981/230788839-94bb688a-f72a-48a9-b64f-bb3f963be035.gif" alt="MIPS Breakout Gameplay" width="500">
+  <img src="https://user-images.githubusercontent.com/34625981/230788839-94bb688a-f72a-48a9-b64f-bb3f963be035.gif" alt="MIPS Breakout Gameplay" width="431">
 </p>
 
 ### Features
